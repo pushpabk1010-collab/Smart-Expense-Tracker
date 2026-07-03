@@ -1,0 +1,9 @@
+Date,Category,Description,Amount
+03-07-2026,Food,Pizza,250
+04-07-2026,Travel,Bus Ticket,50
+05-07-2026,Shopping,Notebook,120
+06-07-2026,Entertainment,Movie Ticket,300
+07-07-2026,Bills,Electricity Bill,15001
+15-08-2026,Food,Burger,200
+20-08-2026,Travel,Train Ticket,800"3-07-2026,Food,Pizza,250","04-07-2026,Travel,Bus Ticket,50","05-07-2026,Shopping,Notebook,120","06-07-2026,Entertainment,Movie Ticket,300"
+PS C:\Users\Megha\OneDrive\Documents\Expense-Tracker> python expense_tracker.py,,,

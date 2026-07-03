@@ -1,0 +1,12 @@
+SMART EXPENSE TRACKER REPORT
+========================================
+
+Total Expenses : ₹16721.00
+
+Category Summary
+-------------------------
+Food                 ₹450.00
+Travel               ₹850.00
+Shopping             ₹120.00
+Entertainment        ₹300.00
+Bills                ₹15001.00
